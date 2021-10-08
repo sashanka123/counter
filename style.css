@@ -1,0 +1,12 @@
+body{
+    background-image:linear-gradient(120deg,rgb(135, 236, 135),green 100%)
+}
+.col-nd-6{
+    border:4px solid black;
+    margin:150px !important;
+    padding:20px;
+}
+button{
+    margin:10px !important;
+    border:2px solid black !important;
+}
